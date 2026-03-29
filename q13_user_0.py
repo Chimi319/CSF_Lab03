@@ -11,4 +11,4 @@ while True:
     else:
         print(f"You entered: {num}")
 
-print("Thank you for using the program!")
+print("Loop ended")
